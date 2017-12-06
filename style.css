@@ -5,5 +5,6 @@ body{
 }
 
 .test{
-    color: #a52222
+    color: #a52222;
+    text-decoration: underline;
 }
